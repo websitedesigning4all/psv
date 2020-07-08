@@ -238,9 +238,12 @@ summary{
 
 
 .example-image{
-	text-align: center;
-	margin-top: 5%;
-	margin-left: 5%;
-	margin-bottom: 5%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 1%;
 	border: 2px solid #FFF;
 }
+
