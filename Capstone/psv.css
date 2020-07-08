@@ -203,6 +203,7 @@ summary{
 .gmap_canvas{
 	overflow: hidden;
 	background: none!important;
+	font-size: 50%;
 }
 .abcd{
 			background-color: #01161E;
